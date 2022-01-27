@@ -1,4 +1,5 @@
-# Welcome to this repository 
+# Welcome to this repository  
+[查看中文版介绍](/otherfile/README-zh.md)
 
 I use it to store the lyrics I made, if you know how to use this file, you are welcome to use it on your player.
 
